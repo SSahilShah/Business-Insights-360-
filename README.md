@@ -2,26 +2,26 @@
 
 This project involved creating a comprehensive data analytics solution for AtliQ, a hardware manufacturing company. As AtliQ expanded into Latin America, they faced significant financial losses due to decisions based on personal intuition rather than data. To address this, they hired a data analyst to bring transparency and enable data-driven decision-making using Power BI.
 
-💻 Technology Involved :
-✅ DAX Language
-✅ DAX Studio (for optimizing the report)
-✅ Microsoft Excel
-✅ MySQL  
-✅ Power BI Desktop
-✅ Power BI Service
+### Technology Involved
+* 💻 DAX Language
+* ✅ DAX Studio (for optimizing the report)
+* ✅ Microsoft Excel
+* ✅ MySQL
+* ✅ Power BI Desktop
+* ✅ Power BI Service
 
-🚀 Concepts Implemented :
-✅ Data Modeling
-✅ Data Transformation in Power Query
-✅ Creation of Calculated Columns
-✅ Creation of DAX Measures
-✅ Bookmarks to Switch Among Visuals
-✅ Dynamic Titles
-✅ KPI Indicators
-✅ Conditional Formatting
-✅ Usage of Parameters
-✅ Deploying the Solution to Power BI Services
-✅ Personal Gateway to Set Up Auto-Refresh of Data
+### Concepts Implemented
+* 🚀 Data Modeling
+* ✅ Data Transformation in Power Query
+* ✅ Creation of Calculated Columns
+* ✅ Creation of DAX Measures
+* ✅ Bookmarks to Switch Among Visuals
+* ✅ Dynamic Titles
+* ✅ KPI Indicators
+* ✅ Conditional Formatting
+* ✅ Usage of Parameters
+* ✅ Deploying the Solution to Power BI Services
+* ✅ Personal Gateway to Set Up Auto-Refresh of Data
 
 📈 Dashboards Designed :
 Unique dashboards were provided for five key departments in the company:
