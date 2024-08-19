@@ -6,7 +6,7 @@ This project involved creating a comprehensive data analytics solution for AtliQ
 ✅ DAX Language
 ✅ DAX Studio (for optimizing the report)
 ✅ Microsoft Excel
-✅ MySQL
+✅ MySQL  
 ✅ Power BI Desktop
 ✅ Power BI Service
 
